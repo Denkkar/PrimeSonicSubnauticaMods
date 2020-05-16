@@ -1,13 +1,145 @@
 CustomFragmentCounts: 
 (
-    ItemID: Seaglide;
+    ItemID: AquariumFragment;
     FragmentsToScan: 4;
 ),
 (
-    ItemID: Beacon;
+    ItemID: BaseBioReactorFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: BaseMapRoomFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: BaseNuclearReactorFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: BaseObservatoryFragment;
     FragmentsToScan: 3;
 ),
 (
-    ItemID: Seamoth;
+    ItemID: BaseRoomFragment;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: BaseUpgradeConsoleFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: BaseWaterParkFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: BatteryChargerFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: BeaconFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: ConstructorFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: CyclopsBridgeFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: CyclopsEngineFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: CyclopsHullFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: ExosuitDrillArmFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: ExosuitFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: ExosuitGrapplingArmFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: ExosuitPropulsionArmFragment;
+    FragmentsToScan: 5;
+),
+(
+    ItemID: ExosuitTorpedoArmFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: FiltrationMachine;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: GravSphereFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: LaserCutter;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: LaserCutterFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: MoonpoolFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: PlanterBox;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: PlanterPot;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: PlanterPot2;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: PlanterPot3;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: PowerCellChargerFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: PowerTransmitterFragment;
+    FragmentsToScan: 2;
+),
+(
+    ItemID: PropulsionCannonFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: SeaglideFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: SeamothFragment;
+    FragmentsToScan: 6;
+),
+(
+    ItemID: StasisRifleFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: ThermalPlantFragment;
+    FragmentsToScan: 4;
+),
+(
+    ItemID: WorkbenchFragment;
     FragmentsToScan: 6;
 );
